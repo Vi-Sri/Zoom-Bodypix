@@ -1,6 +1,5 @@
 // @author : Vishal Srinivas
 
-
 import * as bodyPix from '@tensorflow-models/body-pix';
 
 const state = {
